@@ -1,0 +1,6 @@
+{
+  "name": "Khang & Trọng - Bài 8 Tế bào nhân thực & Chúc mừng 20/11",
+  "description": "Video tương tác và công cụ tạo video AI bài 8 Tế bào nhân thực (Sinh học 10 Kết nối tri thức) cùng lời chúc 20/11 với Khang & Trọng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

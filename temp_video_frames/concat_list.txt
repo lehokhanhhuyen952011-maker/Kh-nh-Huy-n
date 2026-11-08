@@ -1,0 +1,17 @@
+file '/app/applet/temp_video_frames/slide_0.png'
+duration 5
+file '/app/applet/temp_video_frames/slide_1.png'
+duration 5
+file '/app/applet/temp_video_frames/slide_2.png'
+duration 6
+file '/app/applet/temp_video_frames/slide_3.png'
+duration 6
+file '/app/applet/temp_video_frames/slide_4.png'
+duration 6
+file '/app/applet/temp_video_frames/slide_5.png'
+duration 5
+file '/app/applet/temp_video_frames/slide_6.png'
+duration 5
+file '/app/applet/temp_video_frames/slide_7.png'
+duration 7
+file '/app/applet/temp_video_frames/slide_7.png'
